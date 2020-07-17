@@ -1,0 +1,15 @@
+Question 1:
+Create a playbook which does not exit when ANY of the tasks fail.
+
+Question 2:
+Create a playbook which updates httpd and restarts sshd when the machine distribution is RedHat.
+
+Question 3:
+Create a playbook which creates a file with the content "Apache update has failed" in /tmp/apachestatus.txt
+ONLY when updating apache fails due to any reason.
+
+Question 4:
+Create a playbook which:
+installs and updates firewalld and httpd
+creates a file "updatefailed.txt" in the /tmp directory if the update fails.
+always restarts the sshd service irrespective of the output of the playbook. 

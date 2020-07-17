@@ -1,0 +1,8 @@
+Question 1:
+Create an encrypted playbook to configure an Apache server.
+
+Question 2:
+Run the playbook without decrypting and supply the password through a temp file.
+
+Question 3:
+Change the password after running the playbook successfully.

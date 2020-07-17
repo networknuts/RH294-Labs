@@ -1,0 +1,11 @@
+Question 1:
+Create a playbook which creates a user 'John' and then creates a
+directory 'Johnfiles' in his home directory.
+
+Question 2:
+Create a playbook which creates a file 'johnfile.txt' in the
+directory 'Johnfiles' and then copy that file to /tmp directory of the same machine.
+
+Question 3:
+Create a playbook to install apache, start and enable apache,
+allow it in firewalld and create in the index.html file.

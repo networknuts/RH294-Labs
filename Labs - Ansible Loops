@@ -1,0 +1,17 @@
+Question 1:
+Create the following users using loops in a Playbook:
+sampleuser1
+sampleuser2
+sampleuser3
+
+Question 2:
+Restart the following services using loops in a Playbook:
+httpd
+vsftpd
+sshd
+
+Question 3:
+Install the following packages:
+cups
+httpd
+openssh

@@ -1,0 +1,14 @@
+Question 1:
+Write a playbook which installs the vsftpd package on all the machines.
+
+Question 2:
+Write a playbook which enables the ftp service in firewalld.
+
+Question 3:
+Write a playbook which writes "Welcome to Ansible." in the index.html created using the ad-hoc command.
+
+Question 4:
+Write a playbook to restart the httpd service.
+
+Question 5:
+Write a playbook to copy your /etc/passwd on the managedhosts at /tmp/passwdfromcontrolnode .

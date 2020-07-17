@@ -1,0 +1,17 @@
+Question 1:
+Write an ad-hoc command to create a user 'ansible'.
+
+Question 2:
+Write an ad-hoc command to install the 'httpd' package.
+
+Question 3:
+Write an ad-hoc command to create a directory named 'mydir' in the '/tmp' directory.
+
+Question 4:
+Write an ad-hoc command to copy the '/etc/hosts' file to the '/tmp/mydir' directory.
+
+Question 5:
+Write an ad-hoc command to start the apache service on all the machines.
+
+Question 6:
+Write an ad-hoc command to create the index.html file WITHOUT any content.

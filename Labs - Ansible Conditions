@@ -1,0 +1,14 @@
+Question 1:
+Create a playbook to only update the 'httpd' package when the managedhost has the OS Fedora.
+
+Question 2:
+Create a playbook to install the 'mariadb-server' package on the machines
+with the OS RedHat and RAM more than 2GB.
+
+Question 3:
+Create a playbook to restart the httpd service only when the machines are either RedHat, CentOS or Fedora.
+
+Question 4:
+Create a playbook which creates a user 'sysadmin' when either of the two conditions are met:
+RAM is more than 500 MB
+OS is Ubuntu 
