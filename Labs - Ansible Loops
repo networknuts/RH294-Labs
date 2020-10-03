@@ -17,4 +17,4 @@ httpd
 openssh
 
 Question 4:
-You have a variables file with usernames and groups. Use that vars file to create the users provided.
+You have a variables file with usernames and groups. Use that vars file to create the users provided. Ensure the users remain a part of any existing groups.
