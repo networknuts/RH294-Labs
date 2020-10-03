@@ -15,3 +15,6 @@ Install the following packages:
 cups
 httpd
 openssh
+
+Question 4:
+You have a variables file with usernames and groups. Use that vars file to create the users provided.
