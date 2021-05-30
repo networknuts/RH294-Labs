@@ -8,4 +8,4 @@ directory 'Johnfiles' and then copy that file to /tmp directory of the same mach
 
 Question 3:
 Create a playbook to install apache, start and enable apache,
-allow it in firewalld and create in the index.html file.
+allow it in firewalld and create the index.html file.
