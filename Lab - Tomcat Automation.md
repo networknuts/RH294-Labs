@@ -5,7 +5,7 @@ times throughout the project, Tim has decided to write a Playbook to automate th
 The steps to install Tomcat manually are the following:
 
 1. Ensure system is updated.
-2. Install ava-11-openjdk-devel package.
+2. Install java-11-openjdk-devel package.
 3. Download https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.60/bin/apache-tomcat-9.0.60.tar.gz archive file.
 4. Extract the archive file.
 5. Copy apache-tomcat-9.0.60 to /usr/local/tomcat9 .
