@@ -12,6 +12,8 @@ Company URL: quickpizza.com
 
 Write an Ansible Playbook to demonstrate Virtual Hosting on HTTPD.
 
+A variable file called virtual-hosting-vars.yml is available to use in the Playbook.
+
 Steps for manually configuring virtual hosting:
 
 1. Install apache 
