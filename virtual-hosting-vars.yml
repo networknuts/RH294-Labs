@@ -1,0 +1,9 @@
+dir_locations:
+ - /var/www/html/brarchitects
+ - /var/www/html/quickpizza
+ 
+ file_locations:
+  - source_file: brarchitects/index.html
+    dest_file: /var/www/html/brarchitects/index.html
+  - source_file: quickpizza/index.html
+    dest_file: /var/www/html/quickpizza/index.html
