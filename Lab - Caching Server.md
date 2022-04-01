@@ -16,3 +16,8 @@ Replace this line with " ExecStart=/usr/sbin/varnishd -a :80 -f /etc/varnish/def
 
 Navigating to the Varnish webserver should redirect you to your webserver. If you open the page console using a browser and check the properties, the 
 request will be shown as delivered using Varnish Cache.
+
+
+Diagram:
+
+![alt-text](https://github.com/networknuts/RH294-Labs/blob/master/Untitled%20Diagram.drawio.png?raw=true)
